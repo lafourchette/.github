@@ -1,0 +1,13 @@
+# Configuration for probot-stale - https://github.com/probot/stale
+
+daysUntilStale: 2
+daysUntilClose: false
+
+staleLabel: stale
+
+markComment: >
+  This pulls has been automatically marked as stale because it has not had
+  recent activity. It will be closed if no further activity occurs. Thank you
+  for your contributions.
+
+only: pulls
