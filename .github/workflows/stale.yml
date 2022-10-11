@@ -22,4 +22,4 @@ jobs:
           for your contributions.
         stale-pr-label: stale
         days-before-stale: 2
-        days-before-close: false
+        days-before-close: -1
