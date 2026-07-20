@@ -1,0 +1,2 @@
+# Disable beacon auto issue creation in GitHub
+enabled: false
